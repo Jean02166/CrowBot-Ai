@@ -22,15 +22,15 @@ global.prems = []
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
-global.packname = `⏤͟͟͞͞⋆⬪࣪ꥈ🎅★ ׄ ꒱ 𝑪𝒓𝒐𝒘𝑩𝒐𝒕 - 𝑺.𝑪.𝑨 ୭`
-global.author = '❄️𝐁𝐲 𝐖𝐢𝐥𝐥𝐙𝐞𝐤🎅'
-global.stickpack = '© CrowBot'
-global.stickauth = 'By WillZek'
+global.packname = `⏤͟͟͞͞⋆⬪࣪ꥈ☠︎︎★ ׄ ꒱ 𝗛𝗘𝗟𝗟𝗕𝗢𝗧 - 𝑺.𝑪.𝑨 ୭`
+global.author = '☠︎︎𝐁𝐲 𝐏𝐫𝐚𝐤𝐡𝐚𝐫𝐩𝐞𝐫☠︎︎'
+global.stickpack = '© Hellbot'
+global.stickauth = 'By prakharper'
 global.wait = '🚩 *Aɢᴜᴀʀᴅᴇ ᴜɴ ᴍᴏᴍᴇɴᴛᴏ, sᴏʏ ʟᴇɴᴛ𝙾... ฅ^•ﻌ•^ฅ*'
-global.botname = '❄️FELIZ NAVIDAD❄️'
-global.textbot = `🌲𝐂𝐫𝐨𝐰𝐁𝐨𝐭 𝐁𝐲 𝐖𝐢𝐥𝐥𝐙𝐞𝐤⛄`
+global.botname = '☠︎︎FELIZ NAVIDAD☠︎︎'
+global.textbot = `☠︎︎𝗛𝗘𝗟𝗟𝗕𝗢𝗧 𝗕𝘆 𝗣𝗥𝗔𝗞𝗛𝗔𝗥𝗣𝗘𝗥☠︎︎`
 global.listo = '*Aqui tiene ฅ^•ﻌ•^ฅ*'
-global.namechannel = '𝐓𝐇𝐄 𝐂𝐑𝐎𝐖𝐁𝐎𝐓-𝐀𝐈 🌠'
+global.namechannel = '𝗧𝗛𝗘 𝗛𝗘𝗟𝗟𝗕𝗢𝗧-𝗔𝗜 ☠︎︎'
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
@@ -39,8 +39,8 @@ global.miniurl = fs.readFileSync('./storage/img/miniurl.jpg')
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
-global.group = 'https://chat.whatsapp.com/IO3kjd9ovw1Dm8pVUE2MgN'
-global.canal = 'https://whatsapp.com/channel/0029VakfOZfHFxP7rNrUQk2d'
+global.group = 'https://whatsapp.com/channel/0029Vb03dv95a23v1gG0gT24'
+global.canal = 'https://whatsapp.com/channel/0029Vb03dv95a23v1gG0gT24'
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
