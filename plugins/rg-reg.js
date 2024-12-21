@@ -22,13 +22,13 @@ let handler = async function (m, { conn, text, usedPrefix, command }) {
   user.registered = true
   let sn = createHash('md5').update(m.sender).digest('hex')
   let img = await (await fetch(`https://i.ibb.co/V3Hsgcy/file.jpg`)).buffer()
-  let txt = ` –  *R E G I S T R O  -  C R O W*\n\n`
-      txt += `┌  ❄️  *NOMBRE* : ${name}\n`
-      txt += `│  ❄️  *EDAD* : ${age} años\n`
-      txt += `│  ❄️  *NUMERO DE SERIE*\n`
-      txt += `└  ❄️  ${sn}`
+  let txt = ` –  *R E G I S T R O  -  H E L L*\n\n`
+      txt += `┌  ☠︎︎  *NOMBRE* : ${name}\n`
+      txt += `│  ☠︎︎  *EDAD* : ${age} años\n`
+      txt += `│  ☠︎︎  *NUMERO DE SERIE*\n`
+      txt += `└  ☠︎︎  ${sn}`
 await conn.sendAi(m.chat, botname, textbot, txt, img, img, canal, m)
-await m.react('✅')
+await m.react('🚀')
 }
 handler.help = ['reg'].map(v => v + ' *<nombre.edad>*')
 handler.tags = ['rg']
