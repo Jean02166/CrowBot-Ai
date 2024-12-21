@@ -8,11 +8,11 @@ const handler = async (m, {isOwner, isAdmin, conn, text, participants, args, com
   }
   const pesan = args.join` `;
 const oi = `⇢=͟͟͞͞🄰νίऽ૭ : ${pesan}`;
-  let teks = `(づ｡◕‿◕｡)づ 💛 Revivan Plantas"\n  ⧼P̼⧽= ${participants.length} ℙ𝐀𝔍𝐈ꪀəﻜ\n\n ${oi}\n\n╭•┈┈•┈┈⊰🔥⃪᜔꫶┈•┈┈•◌ᜓ ݊ ᜒ𝅄\n`;
+  let teks = `☠︎︎𝐑𝐄𝐕𝐈𝐕𝐀𝐍 𝐌𝐀𝐑𝐈𝐂𝐎𝐌𝐄𝐒"\n  ⧼P̼⧽= ${participants.length} \n\n ${oi}\n\n╭•┈┈•┈┈⊰☠︎︎┈•┈┈•◌ᜓ ݊ ᜒ𝅄\n`;
   for (const mem of participants) {
     teks += `│ ❏ᝰ. @${mem.id.split('@')[0]}\n`;
   }
-  teks += `╰─┐ • •ㅤ•-ˏˋ✿ˊˎ-• •ㅤ•
+  teks += `╰─┐ • •ㅤ•-ˏˋ☠︎︎ˊˎ-• •ㅤ•
         ꒷︶︶꒷︶︶꒷꒦︶✧꒷₊˚`;
   conn.sendMessage(m.chat, {text: teks, mentions: participants.map((a) => a.id)} );
 };
